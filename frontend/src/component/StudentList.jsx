@@ -1,6 +1,6 @@
 import React from 'react';
-import StudentItem form "./StudentItem.jsx";    
-import "./../App.css";
+import StudentItem from "./StudentItem.jsx";    
+
 
 const StudentData = [
     { id: 1, name: "Alice", age: 20, grade: "A"},
