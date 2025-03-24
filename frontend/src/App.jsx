@@ -1,7 +1,7 @@
 import React from "react";
 import StudentList  from "./component/StudentList.jsx";
 import StudentFrom from "./component/StudentForm.jsx";
-import "./../App.css";
+import "./App.css";
 
 const App = () => {
   return (

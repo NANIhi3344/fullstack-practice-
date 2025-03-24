@@ -1,5 +1,5 @@
 import React, {useState} from  "react";
-import "./../App.css";
+
 
 const StudentFrom = () => {
     const [name, setName] = useState("");
